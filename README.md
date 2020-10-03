@@ -40,3 +40,5 @@ Several links were posted as part of the discussion, please add any that are mis
 - [OPTIMADE](https://optimade.org): An open API specification for materials databases (recently released).
 - Some particular electronic lab notebooks (cannot find link, unfortunately)
 - [The bluesky project](https://blueskyproject.io/): A collection of Python libraries for experiment and data control.
+- [Blue Obelisk review paper](https://jcheminf.biomedcentral.com/articles/10.1186/1758-2946-3-37) and presence on [GitHub](https://blueobelisk.github.io/).
+- [cheminfo](https://github.com/cheminfo) community on GitHub and their ELN [C6H6](https://www.c6h6.org/).

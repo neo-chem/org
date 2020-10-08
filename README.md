@@ -4,7 +4,7 @@
 
 This repository is a place to plan and solidify ideas about data management in chemistry and related fields, primarily following discussions that occurred at the Chemical Science Symposium 2020: _How can machine learning and autonomy accelerate chemistry?_.
 
-It was suggested that the community should try to centralize efforts on a common core schema for data, that focusses on interoperability and openess. Mechanisms for other parties to extend, re-use and adapt these schemas can then be codified.
+It was suggested that the community should try to centralize efforts on a common core schema for data, that focusses on interoperability and openness. Mechanisms for other parties to extend, re-use and adapt these schemas can then be codified.
 
 The aim of this repository (and GitHub organisation more broadly) is to provide a version controlled "scratchpad" for discussion, ideas and organisation.
 All content and names are placeholders until otherwise decided.
@@ -15,8 +15,8 @@ There is a [Gitter chatroom](https://gitter.im/neo-chem-organising/community) as
 
 I'll try to summarise the possible to-do list that we discussed:
 
-- [ ] Collect interested parties, via email and so-on, and establish a focal point for dicussion.
 - [ ] If this GitHub is not the place, then potentially make a Slack or otherwise. One option may be to request a forum on the new [matsci.org platform](https://matsci.org/).
+- [ ] Collect interested parties, via email and so-on, and establish a focal point for discussion.
 - [ ] Find out who has the time to contribute, and in what ways
 - [ ] Potentially prepare a perspective paper as a "call-to-arms" for improved data standards.
 
@@ -34,8 +34,7 @@ Several links were posted as part of the discussion, please add any that are mis
 
 ### Software and existing projects
 
-Nice comparison grid of many ELNs: https://docs.google.com/spreadsheets/d/1ar8fgwagOh30E31EAPL-Gorwn_g6XNf81g3VDQnQ_I8/edit#gid=0
-
+- [Comparison grid of many ELNs](https://docs.google.com/spreadsheets/d/1ar8fgwagOh30E31EAPL-Gorwn_g6XNf81g3VDQnQ_I8/edit#gid=0): produced by Hardvard Biomedical Data Management ([more info](https://datamanagement.hms.harvard.edu/electronic-lab-notebooks))
 - [ESCALATE](https://github.com/darkreactions/ESCALATE/): A fully-featured data platform for experiment specification, comprehension and data management.
 - [RightField](https://rightfield.org.uk/): Semantically-tagged spreadsheets, a potential data entry solution/approach with a low barrier to entry.
 - [NMReData initiative](http://nmredata.org/): A FAIR data format for NMR experiments. [CHEMeDATA.](https://github.com/CHEMeDATA) tries to do the same for all of chemistry.
@@ -52,7 +51,8 @@ Nice comparison grid of many ELNs: https://docs.google.com/spreadsheets/d/1ar8fg
 
 ### Papers
 
-- Open Data, Open Source and Open Standards in chemistry: The Blue Obelisk five years on, O'Boyle, N, _et al._, _Journal of Cheminformatics_, 3, 37 (2011) [10.1186/1758-2946-3-37](https://dx.doi.org/10.1186/1758-2946-3-37)
+A collection of papers to motivate discussion.
+
 - Too many tags spoil the metadata: investigating the knowledge management of scientific research with semantic web technologies, Kanza, S, _et al._, _Journal of Cheminformatics_, 11, 23 (2019) [10.1186/s13321-019-0345-8](https://dx.doi.org/10.1186/s13321-019-0345-8).
 - What influence would a cloud based semantic laboratory notebook have on the digitisation and management of scientific research? Kanza, S, _University of Southampton Doctoral Thesis_, (2018) [10.5258/SOTON/D0384](http://dx.doi.org/10.5258/SOTON/D0384)
   - An entire PhD on the merits of semantic lab notebooks, with an open source prototype [Semanticat](https://github.com/samikanza/semanti-cat).
@@ -61,3 +61,4 @@ Nice comparison grid of many ELNs: https://docs.google.com/spreadsheets/d/1ar8fg
 - Hastings, J.; Chepelev, L.; Willighagen, E.; Adams, N.; Steinbeck, C.; Dumontier, M. The Chemical Information Ontology: Provenance and Disambiguation for Chemical Data on the Biological Semantic Web. _PLOS ONE_ 2011, 6 (10), e25513. https://doi.org/10.1371/journal.pone.0025513.
 - Chalk, S. J. SciData: A Data Model and Ontology for Semantic Representation of Scientific Data. _J Cheminform_ 2016, 8 (1), 54. https://doi.org/10.1186/s13321-016-0168-9.
 - Murray-Rust, P.; Rzepa, H. S.; Tyrrell, S. M.; Zhang, Y. Representation and Use of Chemistry in the Global Electronic Age. _Org. Biomol. Chem._ 2004, 2 (22), 3192–3203. https://doi.org/10.1039/B410732B.
+- Open Data, Open Source and Open Standards in chemistry: The Blue Obelisk five years on, O'Boyle, N, _et al._, _Journal of Cheminformatics_, 3, 37 (2011) [10.1186/1758-2946-3-37](https://dx.doi.org/10.1186/1758-2946-3-37)

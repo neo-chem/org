@@ -48,6 +48,7 @@ Nice comparison grid of many ELNs: https://docs.google.com/spreadsheets/d/1ar8fg
 - [Chemotion](https://chemotion.net/): ELN focussed on organic chemistry.
 - [Chemical Analysis Metadata Platform](http://champ-project.org/): Defined metadata and ontology for chemical analysis.
 - [Open Reaction Database](https://github.com/Open-Reaction-Database): Conner Coley, Abby Doyle, Pfityer, Merck and Google work on a protobuffer schema for a chemical reactions database.
+- [Autoprotocol](https://autoprotocol.org/specification/): language for specifying experimental protocols for scientific research.
 
 ### Papers
 

@@ -38,14 +38,16 @@ Nice comparison grid of many ELNs: https://docs.google.com/spreadsheets/d/1ar8fg
 
 - [ESCALATE](https://github.com/darkreactions/ESCALATE/): A fully-featured data platform for experiment specification, comprehension and data management.
 - [RightField](https://rightfield.org.uk/): Semantically-tagged spreadsheets, a potential data entry solution/approach with a low barrier to entry.
-- [NMReData initiative](http://nmredata.org/): A FAIR data format for NMR experiments.
+- [NMReData initiative](http://nmredata.org/): A FAIR data format for NMR experiments. [CHEMeDATA.](https://github.com/CHEMeDATA) tries to do the same for all of chemistry.
 - [SpectroscopyHub](https://spectroscopyhub.com/): A standardisation initiative/data platform for XPS experiments.
 - [OPTIMADE](https://optimade.org): An open API specification for materials databases (recently released).
 - [The bluesky project](https://blueskyproject.io/): A collection of Python libraries for experiment and data control.
 - [Blue Obelisk on Github](https://blueobelisk.github.io/):
-- [cheminfo](https://github.com/cheminfo): community on GitHub and their ELN (with option to export data to Zenodo), one instance hosted on [C6H6](https://www.c6h6.org/).
+- [cheminfo](https://github.com/cheminfo): community on GitHub and their ELN (with option to export data to Zenodo, there is a well-defined structure to the JSON), one instance hosted on [C6H6](https://www.c6h6.org/).
 - [LabTrove](http://labtrove.org/about/): chemistry ELN/"Smart Research Framework" (potentially defunct)
 - [Chemotion](https://chemotion.net/): ELN focussed on organic chemistry.
+- [Chemical Analysis Metadata Platform](http://champ-project.org/): Defined metadata and ontology for chemical analysis.
+- [Open Reaction Database](https://github.com/Open-Reaction-Database): Conner Coley, Abby Doyle, Pfityer, Merck and Google work on a protobuffer schema for a chemical reactions database.
 
 ### Papers
 
@@ -56,3 +58,5 @@ Nice comparison grid of many ELNs: https://docs.google.com/spreadsheets/d/1ar8fg
 - Tremouilhac, P.; Nguyen, A.; Huang, Y.-C.; Kotov, S.; Lütjohann, D. S.; Hübsch, F.; Jung, N.; Bräse, S. Chemotion ELN: An Open Source Electronic Lab Notebook for Chemists in Academia. _Journal of Cheminformatics_ 2017, 9 (1), 54. https://doi.org/10.1186/s13321-017-0240-0.
 - Patiny, L.; Zasso, M.; Kostro, D.; Bernal, A.; Castillo, A. M.; Bolaños, A.; Asencio, M. A.; Pellet, N.; Todd, M.; Schloerer, N.; Kuhn, S.; Holmes, E.; Javor, S.; Wist, J. The C6H6 NMR Repository: An Integral Solution to Control the Flow of Your Data from the Magnet to the Public. _Magnetic Resonance in Chemistry_ 2018, 56 (6), 520–528. https://doi.org/10.1002/mrc.4669.
 - Hastings, J.; Chepelev, L.; Willighagen, E.; Adams, N.; Steinbeck, C.; Dumontier, M. The Chemical Information Ontology: Provenance and Disambiguation for Chemical Data on the Biological Semantic Web. _PLOS ONE_ 2011, 6 (10), e25513. https://doi.org/10.1371/journal.pone.0025513.
+- Chalk, S. J. SciData: A Data Model and Ontology for Semantic Representation of Scientific Data. _J Cheminform_ 2016, 8 (1), 54. https://doi.org/10.1186/s13321-016-0168-9.
+- Murray-Rust, P.; Rzepa, H. S.; Tyrrell, S. M.; Zhang, Y. Representation and Use of Chemistry in the Global Electronic Age. _Org. Biomol. Chem._ 2004, 2 (22), 3192–3203. https://doi.org/10.1039/B410732B.

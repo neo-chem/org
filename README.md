@@ -2,20 +2,22 @@
 
 [![Gitter](https://img.shields.io/gitter/room/neo-chem/org)](https://gitter.im/neo-chem-organising/community)
 
-This repository is a place to plan and solidify ideas about data management in chemistry and related fields, primarily following discussions that occurred at the Chemical Science Symposium 2020: _How can machine learning and autonomy accelerate chemistry?_.
+This repository is a place to plan and solidify ideas about data management in chemistry and related fields, primarily following discussions that occurred at the Chemical Science Symposium 2020: "_How can machine learning and autonomy accelerate chemistry?_".
 
 It was suggested that the community should try to centralize efforts on a common core schema for data, that focusses on interoperability and openness. Mechanisms for other parties to extend, re-use and adapt these schemas can then be codified.
 
 The aim of this repository (and GitHub organisation more broadly) is to provide a version controlled "scratchpad" for discussion, ideas and organisation.
 All content and names are placeholders until otherwise decided.
 
-There is a [Gitter chatroom](https://gitter.im/neo-chem-organising/community) associated with this repository that can be used for informal discussions (and potentially more in the future); this may be replaced by a Slack or another service.
+There is a [Gitter chatroom](https://gitter.im/neo-chem-organising/community) associated with this repository that can be used for informal discussions (and potentially more in the future). There is also a Slack workspace for those interested in contributing; please request an invite on Gitter if you wish to join.
 
 ## To-do
 
 I'll try to summarise the possible to-do list that we discussed:
 
-- [ ] If this GitHub is not the place, then potentially make a Slack or otherwise. One option may be to request a forum on the new [matsci.org platform](https://matsci.org/).
+- [X] If this GitHub is not the place, then potentially make a Slack or otherwise.
+    - A Slack and Gitter have been made.
+    - One option may be to request a forum on the new [matsci.org platform](https://matsci.org/).
 - [ ] Collect interested parties, via email and so-on, and establish a focal point for discussion.
 - [ ] Find out who has the time to contribute, and in what ways
 - [ ] Potentially prepare a perspective paper as a "call-to-arms" for improved data standards.
@@ -30,7 +32,7 @@ This will need to be decided on by the community. As a placeholder, we adopt the
 
 ## Related resources
 
-Several links were posted as part of the discussion, please add any that are missing:
+This list is a scattershot of related projects that were mentioned in discussions. For a more complete list (under construction), please see [neo-chem/awesome-chemical-data](https://github.com/neo-chem/awesome-chemical-data).
 
 ### Software and existing projects
 

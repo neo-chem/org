@@ -18,8 +18,9 @@ I'll try to summarise the possible to-do list that we discussed:
 - [X] If this GitHub is not the place, then potentially make a Slack or otherwise.
     - A Slack and Gitter have been made.
     - One option may be to request a forum on the new [matsci.org platform](https://matsci.org/).
-- [ ] Collect interested parties, via email and so-on, and establish a focal point for discussion.
-- [ ] Find out who has the time to contribute, and in what ways
+- [x] Collect interested parties, via email and so-on, and establish a focal point for discussion.
+    - Discussions are now ongoing on Slack and [Etherpad](https://etherpad.wikimedia.org/p/Open_Chem)
+- [x] Find out who has the time to contribute, and in what ways
 - [ ] Potentially prepare a perspective paper as a "call-to-arms" for improved data standards.
 
 ## Contributing
